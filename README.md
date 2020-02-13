@@ -1,2 +1,2 @@
-# testGitBook
-Test repository for GitBook integration
+# Initial page
+
